@@ -1,11 +1,13 @@
-
-import './App.css'
+import SearchBar from './components/SearchBar'
+import WeatherDisplay from './components/WeatherDisplay'
 
 function App() {
 
   return (
     <div>
       <h1>Dashboard de CLima</h1>
+      <SearchBar />
+      <WeatherDisplay />
     </div>
   )
 }
