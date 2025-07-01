@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      <h1>Dashboard de CLima</h1>
+      <h1>Dashboard de Clima</h1>
       <SearchBar />
       <WeatherDisplay />
     </div>
