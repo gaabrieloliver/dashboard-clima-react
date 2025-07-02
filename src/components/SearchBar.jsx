@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function SearchBar() {
+function SearchBar({ onSearch }) {
 
     const [cidade, setCidade] = useState("");
 
@@ -10,8 +10,8 @@ function SearchBar() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        console.log("Buscando pela cidade:", cidade);
-    }
+        onSearch(cidade);
+    };
 
     return (
         <form onSubmit={handleSubmit}>
