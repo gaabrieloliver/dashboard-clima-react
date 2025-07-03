@@ -18,7 +18,7 @@ Você pode visualizar o projeto em produção através do link abaixo:
 
 ## 📸 Preview
 
-[Preview do App](./preview.gif)
+![Preview do Dashboard de Clima](./preview.gif)
 
 ---
 
