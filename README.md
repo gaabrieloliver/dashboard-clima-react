@@ -18,7 +18,7 @@ Você pode visualizar o projeto em produção através do link abaixo:
 
 ## 📸 Preview
 
-*(**Nota:** Crie um `preview.gif` da sua aplicação e adicione aqui usando a sintaxe `![Preview do App](./preview.gif)`)*
+[Preview do App](./preview.gif)
 
 ---
 
@@ -94,4 +94,4 @@ Abra seu navegador e acesse http://localhost:5173.
 
 ### 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/gaabrieloliver/dashboard-clima-react/blob/main/LICENSE) para mais detalhes.
