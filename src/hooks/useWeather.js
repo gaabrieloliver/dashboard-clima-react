@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export const useWeather = () => {
+export function useWeather() {
     const [weatherData, setWeatherData] = useState(null); // Estado para armazenar os dados do clima
     const [isLoading, setIsLoading] = useState(false); // Estado para controlar o carregamento
     const [error, setError] = useState(null); // Estado para controlar erros

@@ -1,3 +1,4 @@
+import React from 'react'
 import { useWeather } from "./hooks/useWeather";
 import SearchBar from "./components/SearchBar";
 import WeatherDisplay from "./components/WeatherDisplay";
@@ -10,7 +11,7 @@ function App() {
     <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center p-4">
       <div className="w-full max-w-md">
         <h1 className="text-4xl font-bold text-center mb-6">Dashboard de Clima</h1>
-        
+
         {/* Passa a função do hook como prop */}
         <SearchBar onSearch={fetchWeather} />
         <WeatherDisplay
