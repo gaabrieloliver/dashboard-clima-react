@@ -12,8 +12,6 @@ Você pode visualizar o projeto em produção através do link abaixo:
 
 **➡️ [https://dashboard-clima-react.vercel.app/](https://dashboard-clima-react.vercel.app/)**
 
-*(**Nota:** Este é um link de exemplo. Substitua pelo link real gerado pela Vercel para o seu projeto.)*
-
 ---
 
 ## 📸 Preview
